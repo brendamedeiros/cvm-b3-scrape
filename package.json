@@ -1,0 +1,19 @@
+{
+  "name": "company-details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brenda Medeiros",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "jest-puppeteer": "^4.4.0"
+  }
+}
